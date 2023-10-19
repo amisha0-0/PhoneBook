@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class Phonebook {
+class Phonebook {
 	private List<Contact> contacts;
 	
 	public Phonebook() {
